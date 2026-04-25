@@ -1,6 +1,3 @@
-# titanic-machine-learning
-Projeto de classificação para prever sobreviventes do Titanic usando Python, Scikit-Learn, Pipeline e Árvore de Decisão.
-
 # Titanic - Machine Learning
 
 Este projeto tem como objetivo prever quais passageiros sobreviveram ao naufrágio do Titanic, utilizando técnicas de Machine Learning.
