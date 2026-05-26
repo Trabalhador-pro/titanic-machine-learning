@@ -130,3 +130,8 @@ resultado = pd.DataFrame({
 
 # Criando um arquivo
 resultado.to_csv("submission.csv", index=False)
+
+#########################
+# Resultado de 77% de acuracia 
+# Apesar de não ser um dos melhore dos resultado estou muito contente de ter finalizado
+# Pretendo realizar uma segundo tentativa assim que praticar mais e entender mais sobre
