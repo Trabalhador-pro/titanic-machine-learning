@@ -45,6 +45,7 @@ DecisionTreeClassifier(max_depth=3, random_state=42)
 ## Resultado
 
 O modelo alcançou aproximadamente **73% de acurácia**.
+
 O 2 modelo **78% de acurácia**.
 
 Como este foi meu primeiro projeto de Machine Learning, o principal objetivo não foi apenas buscar a maior performance possível, mas compreender toda a estrutura de desenvolvimento de um modelo, desde a análise inicial dos dados, tratamento de valores ausentes, criação de pipelines, treinamento, avaliação e geração das previsões finais.
