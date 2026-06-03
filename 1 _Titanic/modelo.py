@@ -132,6 +132,6 @@ resultado = pd.DataFrame({
 resultado.to_csv("submission.csv", index=False)
 
 #########################
-# Resultado de 77% de acuracia 
+# Resultado de 73% de acuracia 
 # Apesar de não ser um dos melhore dos resultado estou muito contente de ter finalizado
 # Pretendo realizar uma segundo tentativa assim que praticar mais e entender mais sobre
